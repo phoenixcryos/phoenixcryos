@@ -11,6 +11,7 @@
 |---|---|---|
 | [metaforge](https://github.com/phoenixcryos/metaforge) | Meta-prompt compiler: turns a 4-field task spec into a production-grade system prompt with routed reasoning budget, grounding rails, and output contracts | JavaScript · zero-dependency single file · [live demo](https://phoenixcryos.github.io/metaforge/) |
 | [autonomous-villagers-bedrock](https://github.com/phoenixcryos/autonomous-villagers-bedrock) | GOAP-style self-governing Minecraft Bedrock civilization: economy mesh, governance regimes, structural repair, written chronicles — native Scripting API, no server software | TypeScript |
+| [cosmic-watchtower-proxy](https://github.com/phoenixcryos/cosmic-watchtower-proxy) | Serverless backend aggregating NASA DONKI space-weather, USGS seismic, and NWS alert feeds behind one clean `/api/*` surface | Node 20 · Vercel Functions |
 
 ### In the pipeline
 - **ai-compression-survival-analysis** — LLM security research: residual overrides surviving context compression (threat modeling & mitigations) — public release in review.
