@@ -1,9 +1,6 @@
-<!-- DRAFT APPROVED 2026-08-25 — publish now: metaforge + villagers are public.
-     Contact line still needs a real email/LinkedIn before final polish. -->
-
 # Hi, I'm Richard Sharp — @phoenixcryos
 
-**AI Software Engineering student (A.A.S.) at Maestro College.** I build applied-AI systems that do real work instead of demos that die in a notebook: a meta-prompt compiler with routed reasoning budgets, an autonomously-governing Minecraft civilization, and security research on how prompts survive context compression.
+**AI software engineering — formerly A.A.S. candidate at Maestro College (withdrawn Oct 2026).** I build applied-AI systems that do real work instead of demos that die in a notebook: a meta-prompt compiler with routed reasoning budgets, an autonomously-governing Minecraft civilization, and security research on how prompts survive context compression.
 
 ## 🚩 Featured project
 
@@ -24,5 +21,5 @@
 
 ## 📫 Reach me
 
-- GitHub issues/Discussions on any repo above, or
-- <!-- ADD: preferred email / LinkedIn before publishing -->
+- phoenixcryos@gmail.com
+- GitHub issues/Discussions on any repo above
