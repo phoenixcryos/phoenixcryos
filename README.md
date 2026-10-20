@@ -1,6 +1,6 @@
 # Hi, I'm Richard Sharp — @phoenixcryos
 
-**AI software engineering — formerly A.A.S. candidate at Maestro College (withdrawn Oct 2026).** I build applied-AI systems that do real work instead of demos that die in a notebook: a meta-prompt compiler with routed reasoning budgets, an autonomously-governing Minecraft civilization, and security research on how prompts survive context compression.
+**AI software engineering —  A.A.S. candidate at Maestro College.** I build applied-AI systems that do real work instead of demos that die in a notebook: a meta-prompt compiler with routed reasoning budgets, an autonomously-governing Minecraft civilization, and security research on how prompts survive context compression.
 
 ## 🚩 Featured project
 
